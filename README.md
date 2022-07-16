@@ -1,4 +1,3 @@
-# stream-api
 ## Stream Api
 - Creating Stream & Terminal Operation
 - Intermediate Operation
